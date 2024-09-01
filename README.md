@@ -83,7 +83,7 @@ The dataset used in this project was sourced from FiveThirtyEight's analysis and
 
 
 ## Contributing
-Feel free to fork the repository, create a pull request, or report issues. Contributions are welcome!
+Feel free to fork the repository, create a pull request or comment. Contributions are welcome!
 
 
 
