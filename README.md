@@ -12,7 +12,7 @@ The dataset has been split into two subsets:
 
 
 ### Key Columns:
-*`fran_id`: Franchise identifier (team name)
+* `fran_id`: Franchise identifier (team name)
 * `pts`: Points scored by the team
 * `opp_pts`: Points scored by the opponent
 * `point_diff`: Difference between `pts` and `opp_pts`
